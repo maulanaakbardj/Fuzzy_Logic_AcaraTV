@@ -121,3 +121,21 @@ RULE 25 : IF edukatif IS standar AND informatif IS cukup AND jml_penonton IS sed
 RULE 26 : IF edukatif IS buruk AND informatif IS banyak AND jml_penonton IS banyak THEN kualitas IS standar;
 
 RULE 27 : IF edukatif IS baik AND informatif IS kurang AND jml_penonton IS sedikit THEN kualitas IS tinggi;
+
+# Grafik
+
+•	Edukatif (Input)
+
+![edu](https://user-images.githubusercontent.com/67249292/106706872-e6152a00-6622-11eb-9865-d78a87938241.PNG)
+
+•	Informatif (Input)
+
+![inf](https://user-images.githubusercontent.com/67249292/106707042-22488a80-6623-11eb-98c7-cf2c944bee6f.PNG)
+
+•	Jumlah Penonton (Input)
+
+![jmlpe](https://user-images.githubusercontent.com/67249292/106707083-38eee180-6623-11eb-9b54-b1520b810e41.PNG)
+
+•	Kualitas (Output)
+
+![kua](https://user-images.githubusercontent.com/67249292/106707109-4906c100-6623-11eb-8d95-a439f7777838.PNG)
